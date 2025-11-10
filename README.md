@@ -1,4 +1,4 @@
-# Hola Mundo - Docker Flask Application
+# Hola Mundo - Docker Flask Applications
 
 Este proyecto es una aplicación simple de Flask dockerizada que demuestra el uso de GitHub Actions para automatizar el proceso de construcción de imágenes Docker.
 
